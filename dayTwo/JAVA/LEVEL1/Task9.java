@@ -10,7 +10,8 @@ public class userAge{
 
     int price = userInput.nextInt();
 
-    int tax = price * (10/100);
-    System.out.println("The tax is: " + price);
+    double tax = price * 0.1;
+
+    System.out.println("The tax is: " + tax);
 }
 }
