@@ -26,8 +26,11 @@ public class level5{
 
     for (int count = 0; count < number.length -1; count++){
 
-        System.out.println(count);
+        System.out.println(count.number);
 }
-return count;
+    return count;
 }
 }
+
+
+

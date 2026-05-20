@@ -27,14 +27,14 @@ public class Task4 {
     System.out.println("Largest number is: " + largest);
 }
 
-    if (secondNumber > largest) {
+    else if (secondNumber > largest) {
 
     largest = secondNumber;
 
     System.out.println("Largest number is: " + largest);
 }
     
-    if (thirdNumber > largest) {
+   else if (thirdNumber > largest) {
 
     largest = thirdNumber;
 
