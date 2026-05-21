@@ -1,0 +1,3 @@
+def numberList():
+    return [8, 6, 12, 4, -2], 6]
+...
